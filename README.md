@@ -9,7 +9,7 @@
 
 <img align="right" src="http://hivewr.ca/wp-content/uploads/2017/01/hourcode2016_girl.png" height="200px" width="500px">
 <br/>
-<br/>
+
 <h3 align="left">Skills</h3>
 <hr>
 <p align="left"> 
