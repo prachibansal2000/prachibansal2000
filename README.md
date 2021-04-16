@@ -32,6 +32,7 @@
 <br/>
 <br/>
 <br/>
+<br/>
 <h3 align="left"> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="40px" width="70px"/></h3>
 
 <p align="left">
